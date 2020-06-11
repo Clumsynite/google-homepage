@@ -1,3 +1,5 @@
-This is a project given to me by The Odin Project. 
+I am doing this project as a part of The Odin Project's Curriculum.
 
-This project is made by deconstucting Google's homepage (google.com). I built it by using HTML and CSS.
+The main aim of this webpage is to understand the concepts of HTML, CSS by trying to build a page. 
+So, here <a href="www.google.com" target="_blank">Google homepage</a> was deconstructed and I made a look alike.
+This was very time consuming for me but, I nice start to build webpages.
